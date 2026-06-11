@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pymupdf
+easyocr
+pillow
+# optional but recommended
+python-magic
+google-generativeai

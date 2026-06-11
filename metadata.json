@@ -1,0 +1,6 @@
+{
+  "name": "এডুকুইজ",
+  "description": "সাইবারপাংক থিমযুক্ত শিক্ষামূলক অ্যাপ যাতে রয়েছে পিডিএফ ও ছবি থেকে কুইজ তৈরির সুবিধা এবং এআই টিউটর সাপোর্ট।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
